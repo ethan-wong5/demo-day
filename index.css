@@ -5,7 +5,12 @@
 
 
 h2 {
+<<<<<<< HEAD
 text-align: center;
+=======
+        text-align: center;
+        font-family: 'DM Serif Display', serif;
+>>>>>>> 4441a5bbf9382da8468262b453567236438a4141
 }
 
 img{
@@ -15,6 +20,7 @@ display: block;
 margin-left: auto;
 margin-right: auto;
 }
+
 
 
         
