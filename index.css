@@ -1,16 +1,19 @@
 
-.nav-wrapper{
+nav-wrapper {
         background-color: #00b0ff !important;
-        {
 
 }
 h2 {
-        text-align: center;
+ text-align: center;
  font-family: "Times New Roman", Times, serif;
 }
-
-img{
-background-image:absolute;
+body {
+        background-color: #00b0ff;
+}
+img {
+        margin: auto 5px;
+        width: 50px;
+        height: 50px;
 }
 
 
