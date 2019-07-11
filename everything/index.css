@@ -1,9 +1,6 @@
 .nav-wrapper {
     background-color: #00b0ff !important;
-    {
-
 }
-font-family: 'Oswald', sans-serif;
 h2 {
     text-align: center;
     font-family: 'DM Serif Display', serif;
@@ -15,4 +12,5 @@ display: block;
 margin-left: auto;
 margin-right: auto;
 }
+
 
